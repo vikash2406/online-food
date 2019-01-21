@@ -1,0 +1,42 @@
+body
+{
+background-color:lightgray;
+}
+h1.abc
+{
+	color:red;
+	font-style:Castellar;
+	font-size:80px
+}
+h1.def
+{
+	color:blue;
+}
+h2
+{
+	color:blue;
+	font-style:arabic; 
+}
+table
+{
+	font-style:Arial Black;
+	font-size:22px;
+}
+div
+{
+	background-color:white;
+}
+.test
+{
+	font-style:Algerian;
+	color:blue;
+	font-size:35px;
+}
+.qwe
+{
+	text-align: center;
+	vertical-align:middle;
+	color:blue;
+	font-size:small;
+}
+

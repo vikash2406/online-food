@@ -1,0 +1,11 @@
+<html>
+<title></title>
+<head><link rel="stylesheet" type="text/css" href="new 2.css"></head>
+<body >
+<h1> CONFIRMED!!!!</h1>
+<h2><a href="file:///D:/computer/course%201/Project/my%20food.html">Back To Home</a></h2>
+<br><br><hr>
+<h2><a href="file:///D:/computer/course%201/Project/my%20food.html">Make An order</a></h2>
+<br><br>
+</body>
+</html>
